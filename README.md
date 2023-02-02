@@ -1,7 +1,7 @@
 # OpenWRT_x86_x64
 OpenWRT 安装说明
 
-写盘工具：https://github.com/balena-io/etcher/releases  (注：该软件不能在winPE中运行，我用的是windows 11)
+写盘工具：https://github.com/balena-io/etcher/releases  (注：该软件不能在winPE中运行,该软件可以把openwrt写到U盘中，也可以写到硬盘中)
 
 固件下载地址：https://github.com/DHDAXCW/OpenWRT_x86_x64/releases
 
