@@ -33,4 +33,4 @@ OpenWRT 安装说明
 
 windows 11 需要专业版
 
-[windows 11 跳过联网激活](https://jingyan.baidu.com/article/6c67b1d64690846686bb1e09.html)
+[win11系统第一次开机跳过联网的办法](https://zhuanlan.zhihu.com/p/583640911?utm_id=0)
