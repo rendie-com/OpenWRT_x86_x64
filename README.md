@@ -35,4 +35,4 @@ windows 11 需要专业版
 
 [win11系统第一次开机跳过联网的办法](https://zhuanlan.zhihu.com/p/583640911?utm_id=0)
 
-[【保姆级】软路由小主机安装Windows，hyper-v，爱快iKuai，OpenWrt，NAS等等，打造all in one 小主机，让你的小主机好玩又好用！（CC字幕）](https://www.youtube.com/watch?v=wLUvwSSZ0Us)---从37钟的位置开始看。
+[【保姆级】软路由小主机安装Windows，hyper-v，爱快iKuai，OpenWrt，NAS等等，打造all in one 小主机，让你的小主机好玩又好用！（CC字幕）](https://www.youtube.com/watch?v=wLUvwSSZ0Us)
