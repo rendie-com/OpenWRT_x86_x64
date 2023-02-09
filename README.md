@@ -35,6 +35,6 @@ windows 11 需要专业版
 
 [win11系统第一次开机跳过联网的办法](https://zhuanlan.zhihu.com/p/583640911?utm_id=0)
 
-[【保姆级】软路由小主机安装Windows，hyper-v，爱快iKuai，OpenWrt，NAS等等，打造all in one 小主机，让你的小主机好玩又好用！（CC字幕）](https://www.youtube.com/watch?v=wLUvwSSZ0Us)
+[人人都可拥有一台免费的软路由](https://www.youtube.com/watch?v=X3aFezSWywI)
 
 [Hyper-V：无法打开虚拟机XXX，因为虚拟机监控程序未运行](https://www.cnblogs.com/dunitian/p/6657344.html)
