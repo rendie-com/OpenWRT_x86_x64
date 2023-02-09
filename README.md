@@ -31,3 +31,6 @@ OpenWRT 安装说明
 
 第二种：在Windows中安装OpenWRT（用 hyper-v 虚拟机）
 
+windows 11 需要专业版
+
+[windows11跳过联网激活](https://jingyan.baidu.com/article/6c67b1d64690846686bb1e09.html)
