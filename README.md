@@ -5,7 +5,7 @@ OpenWRT 安装说明
 
 固件下载地址：https://github.com/DHDAXCW/OpenWRT_x86_x64/releases
 
-注：就是把openWRT写入到另一个盘中（必须是一整个硬盘，不是一某个分区），和装系统一样。
+注：就是把openWRT写入到另一个盘中（必须是一整个硬盘，不是一某个分区）。
 
 命令：
 
